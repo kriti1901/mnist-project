@@ -14,3 +14,11 @@ __pycache__/
 # IDE files
 .vscode/
 .idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Saved model files (generated, can be large)
+*.keras
+*.h5
